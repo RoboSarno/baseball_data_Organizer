@@ -1,0 +1,23 @@
+2.22 Appearances table
+
+yearID         Year 0
+teamID         Team 1
+lgID           League   2
+playerID       Player ID code   3
+G_all          Total games played   4  
+GS             Games started    5
+G_batting      Games in which player batted 6
+G_defense      Games in which player appeared on defense    7
+G_p            Games as pitcher 8
+G_c            Games as catcher 9
+G_1b           Games as firstbaseman    10
+G_2b           Games as secondbaseman   11
+G_3b           Games as thirdbaseman    12
+G_ss           Games as shortstop   13
+G_lf           Games as leftfielder 14
+G_cf           Games as centerfielder   15
+G_rf           Games as right fielder   16
+G_of           Games as outfielder  17
+G_dh           Games as designated hitter   18
+G_ph           Games as pinch hitter    19
+G_pr           Games as pinch runner    20
